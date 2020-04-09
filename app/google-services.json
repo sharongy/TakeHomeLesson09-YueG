@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "234891178325",
+    "firebase_url": "https://takehomelesson09-yueg-20a0d.firebaseio.com",
+    "project_id": "takehomelesson09-yueg-20a0d",
+    "storage_bucket": "takehomelesson09-yueg-20a0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234891178325:android:f2857c10feebd32e753fdc",
+        "android_client_info": {
+          "package_name": "com.example.takehomelesson09_yueg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234891178325-3vcqtv2q8v9uhrd8emkl7nigjldle91h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.takehomelesson09_yueg",
+            "certificate_hash": "1084b378eba1e259a09641d73b1582d585fe6985"
+          }
+        },
+        {
+          "client_id": "234891178325-5cjafq5v6amudq0ibgsm2e0u14pmr47g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoPyvnRIDJDhU-t9fZzRkY22eQPiZj1jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234891178325-5cjafq5v6amudq0ibgsm2e0u14pmr47g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
